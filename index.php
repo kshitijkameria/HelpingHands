@@ -184,13 +184,13 @@ background:#fff;
 <br>
 
       <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-          <!-- <a href=""><img src="logo.png"></a> -->
+        <!-- <div class="container-fluid">
+           <a href=""><img src="logo.png"></a> 
           <img src="images/logo1.png" style="width:90px; border-radius: 55px;padding: 10px;">
          <a class="navbar-brand" href="#">Helping Hand India NGO</a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
-</button>
+</button> -->
 <div class="collapse navbar-collapse" id="navbarNav">
   <ul class="navbar-nav ml-auto">
     <li class="nav-item active">
@@ -262,7 +262,7 @@ background:#fff;
         <span class="caption1 mb-3 bg-warning px-4" style="margin-left:25%;">Recent News</span>
         <div class="row align-items-center">
           
-         <marquee width="75%" direction="up" scrollamount="1" style="margin-left:10%;">
+         <marquee width="75%" direction="up" scrollamount="1" style="margin-left:10%; height:15cm;">
            <span class="caption">
 <p>
   1). Next Blood Donation Camp is scheduled in Dehradun Polytechnic College.
