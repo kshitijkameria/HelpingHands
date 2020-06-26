@@ -262,7 +262,7 @@ background:#fff;
         <span class="caption1 mb-3 bg-warning px-4" style="margin-left:25%;">Recent News</span>
         <div class="row align-items-center">
           
-         <marquee width="75%" direction="up" scrollamount="1" style="margin-left:10%; height:14.5cm;">
+         <marquee width="75%" direction="up" scrollamount="1" style="margin-left:10%; height:14.7cm;">
            <span class="caption">
 <p>
   1). Next Blood Donation Camp is scheduled in Dehradun Polytechnic College.
