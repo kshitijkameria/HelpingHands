@@ -30,7 +30,7 @@
     <link rel="stylesheet" href="css/aos.css">
 
    
-    <title>Hello, world!</title>
+    <title>Helping Hand NGO</title>
 <style>
 
 .fa {
